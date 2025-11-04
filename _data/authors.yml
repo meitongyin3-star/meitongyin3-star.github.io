@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
+
+default:
   name        : "Meitong Yin"
   uri         : "https://name.com"
   email       : "mtyin@mail.ustc.edu.cn"
-  bio         : "This is the first name."
+  bio         : "Undergraduate Student at University of Science and Technology of China (USTC) since 2022"
   avatar      : "/images/PHOTO.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : ""
+  google_plus : ""
