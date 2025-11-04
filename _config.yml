@@ -24,7 +24,7 @@ repository               : "meitongyin3-star/meitongyin3-star.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PHOTO_small.jpg"
+  avatar           : "images/PHOTO_small.jpg"
   name             : "Meitong Yin"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
