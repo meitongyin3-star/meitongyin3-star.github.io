@@ -14,7 +14,7 @@ title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Meitong Yin"
 description              : &description "Undergraduate Student at University of Science and Technology of China(USTC) since 2022"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://meitongyin3-star.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meitongyin3-star/meitongyin3-star.github.io"
@@ -24,14 +24,14 @@ repository               : "meitongyin3-star/meitongyin3-star.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/PHOTO.jpg"
+  avatar           : "PHOTO-small.png"
   name             : "Meitong Yin"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Undergraduate Student at University of Science and Technology of China(USTC) since 2022"
+  location         : "Hefei, Anhui, China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mtyin@mail.ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
