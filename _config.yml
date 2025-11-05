@@ -77,6 +77,10 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+collections:
+  publications:
+    output: true
+    
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
