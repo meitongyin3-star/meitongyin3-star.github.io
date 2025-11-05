@@ -15,6 +15,6 @@ Dynamically manipulating carrier distributions in van der Waals heterostructures
 By using counter-propagating SAWs, we generate **standing surface acoustic waves (SSAWs)** that dynamically manipulate charge distributions, revealing tunable potential barriers and **carrier localization** effects. The saturation of acoustoelectric current density, attenuation transitions, and resistance peaks under SSAW conditions confirm strong carrier confinement.  
 
 These results establish SAWs as a versatile and reconfigurable platform for **dynamic control of charge in 2D materials**, offering a promising route toward **acoustic lattices for quantum simulation** and **time-dependent electronic systems**.
-
+ 
 *Published in* **Nano Letters (2025)**.  
 [Read full article here →](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.5c03282)
