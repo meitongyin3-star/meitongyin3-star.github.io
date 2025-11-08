@@ -17,3 +17,7 @@ I supervised the undergraduate student project exploring how the shape, size, an
 A major challenge was tracking the flight path. I suggested combining aerial footage from a drone with ground-based height-projection videos, while students proposed using an elevated camera stand. The latter provided higher stability and resolution. In data analysis, I encouraged the team to examine the relationship between curvature and time, as their trajectories deviated from the circular paths reported in literature. We attributed this to differences in boomerang geometry.
 
 This experience deepened my understanding of experimental design and student mentorship, reinforcing my aspiration to pursue a future academic career.
+
+<p align="center">
+  <img src="./images/paper.png" alt="Group photo" width="70%">
+</p>
