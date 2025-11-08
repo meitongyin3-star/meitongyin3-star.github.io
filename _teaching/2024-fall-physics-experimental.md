@@ -19,5 +19,5 @@ A major challenge was tracking the flight path. I suggested combining aerial foo
 This experience deepened my understanding of experimental design and student mentorship, reinforcing my aspiration to pursue a future academic career.
 
 <p align="center">
-  <img src="paper.png" alt="Group photo" width="70%">
+  <img src="{{ site.baseurl }}/images/paper.png" alt="A Photo with my students" width="70%">
 </p>
