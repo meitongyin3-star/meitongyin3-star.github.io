@@ -32,9 +32,9 @@ Beyond research, she has served as a **teaching assistant** for *Solid State Phy
 
 ---
 
-## 🚀 Research Vision
+## 🚀 Future Research and Academic Aspirations
 
-Meitong aims to pursue a Ph.D. in condensed matter physics and continue her academic path toward a faculty position. Her long-term vision is to establish her own laboratory at a university, advancing the understanding of 2D materials and quantum devices while fostering an inclusive and collaborative environment for the next generation of researchers.
+Meitong aims to pursue a **Ph.D. in condensed matter physics or Material Science** and continue her academic path toward a **faculty position**. Her long-term vision is to **establish her own laboratory** at a university, advancing the understanding of 2D materials and quantum devices while fostering an inclusive and collaborative environment for the next generation of researchers.
 
 ---
 
