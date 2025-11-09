@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Carrier Modulation via Nonlinear Acoustoelectric Transport in van der Waals Heterostructures"
-excerpt: "hBN encapsulated graphene device for investigating surface acoustic waves (SAWs)<br/><img src='/images/SAW.png' style='width:300px'>"
+excerpt: "hBN encapsulated graphene device for investigating surface acoustic waves (SAWs)<br/><img src='/images/SAW.png' width='300'/>"
 collection: portfolio
 ---
 
