@@ -1,0 +1,18 @@
+---
+title: "Fabrication and Characterization of hBN-WS2-hBN heterostructure based on EBL"
+excerpt: "Device of hBN-WS2-hBN heterostructure after Electron Beam Lithography (EBL)<br/><img src='/images/WS2.png'>"
+collection: portfolio
+---
+
+Applied Electron Beam Lithography (EBL) to pattern electrodes on exfoliated hBN flakes.
+
+Fabricated a hBN-WS2-hBN heterostructure using Polycarbonate (PC) film, where the WS2 layer was grown by
+Chemical Vapor Deposition (CVD).
+
+Acquired the carrier mobility by measuring the drain current (Id) versus gate voltage (Vg) characteristics using a
+semiconductor probe station as shown below.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/images/I-V.png" alt="" width="70%">
+</p>
+
