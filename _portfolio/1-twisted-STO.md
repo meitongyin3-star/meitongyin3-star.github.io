@@ -1,6 +1,6 @@
 ---
 title: "Precise angle-controlled fabrication of twisted multilayer SrTiO3 (STO)"
-excerpt: "Twisted bilayer SrTiO3 on SiO2/Si<br/><img src='/images/twisted-bilayer.png'>"
+excerpt: "Twisted bilayer SrTiO3 on SiO2/Si<br/><img src='/images/twisted-bilayer-STO.png' width='300'/>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 Achieved twisted bilayer STO on SiO2/Si and working on fabricating twisted four-layer STO transferred on Transmission Electron Microscopy(TEM) grids. Here is a image of bilayer STO transferred to TEM grid.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/TEM.png" alt="" width="70%">
+  <img src="{{ site.baseurl }}/images/TEM.png" alt="" width="50%">
 </p>
 
 
@@ -18,5 +18,5 @@ Plan to Observe moiré patterns and the atomic arrangement at the bilayer interf
 Here shows the process of fabrication.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/fabrication.png" alt="Fabrication process" width="70%">
+  <img src="{{ site.baseurl }}/images/fabrication.png" alt="Fabrication process" width="100%">
 </p>
