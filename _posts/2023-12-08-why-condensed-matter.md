@@ -1,7 +1,7 @@
 ---
 title: 'Why I chose condensed matter physics / 2D Materials'
-date: 2023-11
-permalink: /posts/2023/11/2023-11-15-why-condensed-matter/
+date: 2023-12-08
+permalink: /posts/2023/11/2023-12-08-why-condensed-matter/
 ---
 
 In my freshman year, I collaborated with three peers in the project focused on the **conductivity of graphite and its potential application in seismic wave detection**. We earned Second Prize (Top 15%) in the National College Student Physics Innovation Experiment Competition.
