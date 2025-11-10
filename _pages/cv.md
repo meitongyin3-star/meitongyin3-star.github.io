@@ -15,30 +15,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 * Fall 2024: Teaching Assistant
   * University of Science and Technology of China
-  * Course: 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Course: College Physics Experimental
+  * Duties included: guiding students to independently design experiments，providing advice on data analysis
+  
+* Spring 2025: Teaching Assistant
+  * University of Science and Technology of China
+  * Course: Solid State Physics A
+  * Duties included: grading assignments and exams, answering students’ questions, and leading problem-solving sessions
+  * Supervisor: Professor Qiming Weng at USTC
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Experimental:** Electron Beam Lithography (EBL), Atomic Force Microscopy (AFM), Film Deposition (E-beam Evaporation), Nano Fabrication, Film Exfoliation, Semiconductor Probe Station, Glovebox Operation  
+* **Programming:** C (Familiar), Python, MATLAB, Assembly, HTML  
+* **Language:** TOEFL 103 (Reading 28, Listening 26, Speaking 24, Writing 25)
 
 Publications
 ======
@@ -58,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
