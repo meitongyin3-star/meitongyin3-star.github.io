@@ -22,3 +22,9 @@ After reviewing relevant literature, I concluded that the formation of fractal p
 After completing the experiments, I used *ImageJ* to calculate the fractal dimensions and found that when the ratio of ink to alcohol was **1:3**, the fractal dimension reached its maximum value.
 
 Following my presentation, I received a high evaluation for this work. Through this experience, I discovered a deep enthusiasm for experimental physics, which later motivated me to participate in the *National College Student Physics Innovation Experiment Competition* a few months afterward. Furthermore, in my third year, I became a Teaching Assistant for the *College Physics Experimental* course to guide other students in their own research projects.
+
+I planted a pot of gardenias that spring to commemorate this beautiful experience.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/images/flower.png" alt="Fabrication process" width="50%">
+</p>
